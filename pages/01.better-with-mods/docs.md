@@ -29,7 +29,7 @@ BetterWithMods is largely inspired by Better Than Wolves by FlowerChild. While t
 
 **Curse Link**: [https://minecraft.curseforge.com/projects/better-with-mods](https://minecraft.curseforge.com/projects/better-with-mods)  
 **Docs**: [https://docs.betterwithmods.com/](https://docs.betterwithmods.com/)  
-**Website**: [http://betterwithmods.com/](http://betterwithmods.com/)
+**Website**: [http://betterwithmods.com/](http://betterwithmods.com/)  
 **Discord Link**: [https://discord.betterwithmods.com](https://discord.betterwithmods.com)
 
 This mod is best played as an addon to vanilla Minecraft. The Better With Mods team have released a lightweight modpack called BetterWithModpack which adds more tweaks, which make Minecraft a little harder and more interesting. This mod is best played with no other tech mods, as it makes many of the systems and changes obsolete (the pack is very well rounded with vanilla).
