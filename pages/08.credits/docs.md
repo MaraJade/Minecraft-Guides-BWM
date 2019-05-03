@@ -14,8 +14,8 @@ A big thank you to the Better With Mods Discord. Without them, this would not of
 Special thanks to PRIMETOXINZ.
 
 ## Mod Authors
-Beeto & primetoxinz - Thank You
-Contributors
-Mephie/Tyith - Guide Author
-IntrACate - Editor
-Fudge - Editor
+Beeto & primetoxinz - Thank You  
+Contributors  
+Mephie/Tyith - Guide Author  
+IntrACate - Editor  
+Fudge - Editor  
