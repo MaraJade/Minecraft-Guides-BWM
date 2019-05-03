@@ -4,6 +4,8 @@ media_order: 'Better With Mods - A Comprehensive Guide.pdf.zip'
 taxonomy:
     category: docs
     tag: ''
+external_links:
+    process: false
 visible: true
 twitterenable: true
 twittercardoptions: summary
