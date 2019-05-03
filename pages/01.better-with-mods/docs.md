@@ -5,8 +5,13 @@ taxonomy:
         - docs
 menu: 'Better With Mods'
 visible: true
+googletitle: 'MinecraftGuides.net | Better With Mods Comprehensive Guide'
+googledesc: 'Better With Mods(BWM) is a mod based around extending and enhancing vanilla Minecraft. BWM focuses on massively overhauling the vanilla experience.'
 twitterenable: true
-twittercardoptions: summary
+twittercardoptions: summary_large_image
+twittershareimg: /advanced-cooking/block-dispenser/buddy-block.jpg
+twittertitle: 'MinecraftGuides.net | Better With Mods Comprehensive Guide'
+twitterdescription: 'Better With Mods(BWM) is a mod based around extending and enhancing vanilla Minecraft. BWM focuses on massively overhauling the vanilla experience.'
 facebookenable: false
 ---
 
