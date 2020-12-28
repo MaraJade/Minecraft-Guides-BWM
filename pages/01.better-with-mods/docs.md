@@ -27,6 +27,7 @@ BetterWithMods is largely inspired by Better Than Wolves by FlowerChild. While t
 
 <center>
     <b>Minecraft Version</b>: 1.12.2  -- <b>BWM Version:</b> 2.3.20-1027 
+    <br>
     <b><a href="https://minecraft.curseforge.com/projects/better-with-mods" target="_blank">CurseForge</a></b>
     --
    <b><a href="http://betterwithmods.com/" target="_blank">Website</a></b>
