@@ -17,6 +17,7 @@ facebooktitle: 'MinecraftGuides.net | Better With Mods Comprehensive Guide'
 facebookdesc: 'Better With Mods(BWM) is a mod based around extending and enhancing vanilla Minecraft. BWM focuses on massively overhauling the vanilla experience.'
 facebookimg: /advanced-cooking/block-dispenser/buddy-block.jpg
 ---
+
 ### What is this mod about?
 Better With Mods (BWM) is a mod based around extending and enhancing vanilla Minecraft. BWM focuses on improving the core aspects of Minecraft through its three core modules. First is the Gameplay module, which directly extends the gameplay of Minecraft through additional blocks, items, foods and more. Next is the Tweak module, which adds small quality of life and balance changes. Finally is the Hardcore module, which directly changes the core balance of Minecraft. Together, these three modules massively overhaul the vanilla experience.
 

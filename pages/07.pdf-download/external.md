@@ -1,6 +1,6 @@
 ---
 title: 'PDF Download'
-external_url: 'https://bwm.minecraftguides.net/Better%20With%20Mods%20-%20A%20Comprehensive%20Guide.pdf'
+external_url: 'https://minecraftguides.net/BWM/Better%20With%20Mods%20-%20A%20Comprehensive%20Guide.pdf'
 twitterenable: true
 twittercardoptions: summary
 articleenabled: false
@@ -14,10 +14,7 @@ orga:
 orgaratingenabled: false
 eventenabled: false
 personenabled: false
-musicalbumenabled: false
-productenabled: false
-product:
-    ratingValue: 2.5
+product: {  }
 restaurantenabled: false
 restaurant:
     acceptsReservations: 'yes'
